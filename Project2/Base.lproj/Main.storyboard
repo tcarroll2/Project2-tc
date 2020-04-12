@@ -865,7 +865,6 @@
                     <connections>
                         <outlet property="guess" destination="zih-3H-xqG" id="5FZ-wj-T36"/>
                         <outlet property="tableView" destination="9Mx-pW-BxD" id="LLc-ir-U7W"/>
-                        <outlet property="textField" destination="zih-3H-xqG" id="oZ3-CO-xCG"/>
                     </connections>
                 </viewController>
                 <customObject id="rPt-NT-nkU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
